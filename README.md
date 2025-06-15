@@ -22,7 +22,7 @@
 
 ## TL;DR
 
-You can fork this repo to customize and make changes of your own. If you do, please consider giving proper credit by linking back to [RoshanShiroorkar](https://github.com/roshanshiroorkar/portfolio). Thanks!
+You can fork this repo to customize and make changes of your own. This project is originally based on [Soumyajit4419's Portfolio](https://github.com/soumyajit4419/Portfolio). Please give proper credit to [Soumyajit4419](https://github.com/soumyajit4419) if you use or modify this work.
 
 ## Built With
 
@@ -73,7 +73,4 @@ You'll find all the components there—edit them to update your content, project
 ### Show your support
 
 If you like this project, please ⭐ the repository and share it!  
-You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to [RoshanShiroorkar](https://github.com/roshanshiroorkar/portfolio). Thanks!
-
-
-
+You can fork this repo to modify and make changes of your own. Please give proper credit to [Soumyajit4419](https://github.com/soumyajit4419) as the original creator.
