@@ -11,7 +11,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
-
 </center>
 
 <h3 align="center">
@@ -23,13 +22,13 @@
 
 ## TL;DR
 
-You can fork this repo to customize and make changes for your own version. If you do, please consider giving credit by linking back to [RoshanShiroorkar](https://github.com/roshanshiroorkar/portfolio). Thanks!
+You can fork this repo to customize and make changes of your own. If you do, please consider giving proper credit by linking back to [RoshanShiroorkar](https://github.com/roshanshiroorkar/portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio [roshanshiroorkar.tech](https://roshan.vercel.app/) which showcases my GitHub projects, resume, skillset, and contact details.
+My personal portfolio [roshanshiroorkar.tech](https://roshan.vercel.app/) showcases my GitHub projects, resume, technical skills, and contact details.
 
-This project is built using the following technologies:
+This project was built using the following technologies:
 
 - React.js  
 - Node.js  
@@ -48,30 +47,33 @@ This project is built using the following technologies:
 
 ## Getting Started
 
-To set up this project locally, make sure you have `node.js` and `git` installed on your system.
+To set up this project locally, ensure that you have `node.js` and `git` installed on your machine.
 
 ## 🛠 Installation and Setup Instructions
 
 1. Clone the repository:  
    `git clone https://github.com/roshanshiroorkar/portfolio.git`
 
-2. Go into the project directory:  
+2. Navigate into the project directory:  
    `cd portfolio`
 
-3. Install all required dependencies:  
+3. Install dependencies:  
    `npm install`
 
 4. Start the development server:  
    `npm start`
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser to view the project. It will auto-reload on file changes.
+Now open [http://localhost:3000](http://localhost:3000) in your browser to view the project. It will automatically reload when you make changes.
 
 ## Usage Instructions
 
-Go to the `/src/components/` directory.  
-All components and content are stored there—edit them to reflect your personal data, projects, and preferences.
+Navigate to the `/src/components/` directory.  
+You'll find all the components there—edit them to update your content, projects, and design.
 
 ### Show your support
 
-If you like this project, please ⭐ the repo and share it!
+If you like this project, please ⭐ the repository and share it!  
+You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to [RoshanShiroorkar](https://github.com/roshanshiroorkar/portfolio). Thanks!
+
+
 
