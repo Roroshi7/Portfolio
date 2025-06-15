@@ -2,9 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://roshan.vercel.app/" target="_blank">roshanshiroorkar.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -78,3 +75,4 @@ All components and content are stored there—edit them to reflect your personal
 ### Show your support
 
 If you like this project, please ⭐ the repo and share it!
+
