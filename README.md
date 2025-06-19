@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="roshanportfolio-phi.vercel.app" target="_blank">roshan.tech</a>
+  <a href="https://roshanportfolio-phi.vercel.app/" target="_blank">roshan.tech</a>
 </h2>
 
 <br/>
@@ -26,7 +26,7 @@ You can fork this repo to customize and make changes of your own. This project i
 
 ## Built With
 
-My personal portfolio [roshanportfolio-phi.vercel.app](roshanportfolio-phi.vercel.app) showcases my GitHub projects, resume, technical skills, and contact details.
+My personal portfolio [roshanportfolio-phi.vercel.app](https://roshanportfolio-phi.vercel.app/) showcases my GitHub projects, resume, technical skills, and contact details.
 
 This project was built using the following technologies:
 
