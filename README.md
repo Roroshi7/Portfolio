@@ -26,7 +26,7 @@ You can fork this repo to customize and make changes of your own. This project i
 
 ## Built With
 
-My personal portfolio [roshanportfolio-phi.vercel.app](https://roshan.vercel.app/) showcases my GitHub projects, resume, technical skills, and contact details.
+My personal portfolio [roshanportfolio-phi.vercel.app](roshanportfolio-phi.vercel.app) showcases my GitHub projects, resume, technical skills, and contact details.
 
 This project was built using the following technologies:
 
