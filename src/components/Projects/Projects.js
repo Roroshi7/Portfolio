@@ -55,7 +55,9 @@ function Projects() {
               title="StayFinder"
               description="StayFinder is a full-stack rental platform inspired by Airbnb, built using the MERN stack: MongoDB, Express.js, React.js, and Node.js. It allows users to discover, list, and book short-term or long-term stays with ease. The platform features property listings with detailed descriptions, real-time availability, and filtering based on location, price, and amenities. StayFinder offers secure user authentication and role-based access for guests and hosts, enabling users to register, log in, manage bookings, and list properties. The backend is powered by RESTful APIs and MongoDB for scalable data storage, while the frontend ensures a responsive and smooth user experience. Designed with usability in mind, StayFinder helps users find their perfect stay or monetize their space effortlessly."
               ghLink="https://github.com/Roroshi7/StayFinder.git"
+              demoLink="https://68539a879ad995b50699b1be--stayfinder7.netlify.app/login"
             />
+            
           </Col>
         </Row>
       </Container>
