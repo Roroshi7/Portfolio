@@ -57,7 +57,16 @@ function Projects() {
               ghLink="https://github.com/Roroshi7/StayFinder.git"
               demoLink="https://68539a879ad995b50699b1be--stayfinder7.netlify.app/login"
             />
-            
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="SignIt"
+              description="SignIt is a full-stack document signature application built using the MERN stack: MongoDB, Express.js, React.js, and Node.js. It enables users to securely upload PDF documents, digitally sign them, and share them for external signing with integrated email notifications. The platform offers features like JWT-based authentication, a responsive dashboard for managing uploaded PDFs, and a live PDF preview tool for placing drawn signatures with precision. External users can sign documents without account creation, ensuring seamless collaboration. An audit trail logs all document actions for enhanced transparency and compliance. The frontend, styled with Tailwind CSS, includes real-time interactivity powered by React PDF, PDF-Lib, and React Moveable. The backend leverages Multer for file uploads, Nodemailer for email services, and robust authentication using bcrypt and JWT. Designed for efficiency and ease of use, SignIt makes secure document signing fast, collaborative, and intuitive."
+              ghLink="https://github.com/Roroshi7/SignIt.git"
+              demoLink="https://sign-it-livid.vercel.app/"
+            />
           </Col>
         </Row>
       </Container>
