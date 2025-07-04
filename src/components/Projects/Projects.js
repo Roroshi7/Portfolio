@@ -57,7 +57,7 @@ function Projects() {
               ghLink="https://github.com/Roroshi7/StayFinder.git"
               demoLink="https://68539a879ad995b50699b1be--stayfinder7.netlify.app/login"
             />
-
+          </Col>
            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
